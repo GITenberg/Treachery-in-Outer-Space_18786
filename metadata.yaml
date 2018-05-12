@@ -1,0 +1,48 @@
+_repo: Treachery-in-Outer-Space_18786
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Ley, Willy
+    birthdate: 1906
+    deathdate: 1969
+    gutenberg_agent_id: '36959'
+    url: http://www.gutenberg.org/2009/agents/36959
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Ley
+  illustrator:
+    agent_name: Glanzman, Louis
+    gutenberg_agent_id: '8082'
+    url: http://www.gutenberg.org/2009/agents/8082
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rockwell, Carey
+    gutenberg_agent_id: '8081'
+    url: http://www.gutenberg.org/2009/agents/8081
+description: Tom Corbett and his two pals of the Polaris unit are assigned to monitor
+  three giant spaceships entered in the most famous race in all space history -- a
+  race to the planet Titan, where rich crystal mines are located. One of the boys
+  is assigned to each spaceship and the race gets underway. The prize is the contract
+  to haul the crystal from Titan to the other planets of the universe. As a result
+  of treachery, the best ship does not win, and the foul play reveals a dastardly
+  plot to seize the entire Titan mining operations!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18786'
+  lccn: '54004974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Juvenile fiction'
+- !lcsh 'Corbett, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Astronauts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Interplanetary voyages -- Juvenile fiction'
+title: Treachery in Outer Space
+url: http://www.gutenberg.org/ebooks/18786
